@@ -1,14 +1,16 @@
 ---
-Title: webtek
-Description: This is a course webpage
+Title: Din första webbplats
+Description: Vi gör en webbplats
 ---
-webtek
+Din första webbplats
 ==========================
 
-This course is about HTML, CSS and basic JavaScript.
+Här gör vi en webbplats. Coolt va?
 
 
 
-## kursmoment
+## krav
 
-Här lär vi oss grunderna i HTML och CSS. [Instruktioner](kmom01).
+1. Den ska ligga på webben.
+
+1. Tror det är bäst att göra i HTML och CSS.
